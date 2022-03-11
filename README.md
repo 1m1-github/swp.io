@@ -1,4 +1,4 @@
-# anyswap
+# swp.io
 
 A and B can swap anything trustlessly
 
